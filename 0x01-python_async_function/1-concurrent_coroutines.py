@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-concurrency
+concurrent_coroutines module
 """
 import asyncio
 import random
